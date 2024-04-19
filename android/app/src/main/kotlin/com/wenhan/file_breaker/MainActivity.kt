@@ -1,4 +1,4 @@
-package com.wenhan.file_breaker
+package com.wenhan.file_encryptify
 
 import io.flutter.embedding.android.FlutterActivity
 

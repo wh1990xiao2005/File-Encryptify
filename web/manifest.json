@@ -1,6 +1,6 @@
 {
-    "name": "file_breaker",
-    "short_name": "file_breaker",
+    "name": "file_encryptify",
+    "short_name": "file_encryptify",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
