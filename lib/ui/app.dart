@@ -2,10 +2,13 @@ import 'dart:io';
 
 import 'package:file_encryptify/ui/windows/app.dart';
 import 'package:flutter/widgets.dart';
+import 'package:logger/logger.dart';
 import 'package:system_theme/system_theme.dart';
 
 void launchFileEncryptifyApp() async {
   if (Platform.isWindows) {
+    Logger().d(
+        'Microsoft Windows OS detected, use Fluent UI to render desktop version.');
     WidgetsFlutterBinding.ensureInitialized();
     await SystemTheme.accentColor.load();
     runApp(const FileEncryptifyApp());

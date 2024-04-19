@@ -1,16 +1,27 @@
-# file_breaker
+# File Encryptify(file_encryptify)
 
-To avoid ban file during use net driver.
+A cross-platform tool to encrypt & decrypt your file(s).
 
-## Getting Started
+**IMPORTANT**: Please refer and select the correct branch to build your binary. For example "develop" branch is only for debug which is only for developers select.
 
-This project is a starting point for a Flutter application.
+**❗THIS APP IS UNDER CONSTRUCTION❗**
 
-A few resources to get you started if this is your first Flutter project:
+## Develop environment
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ - Windows 11 Pro V10.0.22631.3447
+ - Flutter SDK V3.16.5
+ - Dart SDK V3.2.3
+ - Android Toolchain V34.0.0
+ - Visual Studio Community V2022 17.9.5
+ - IntellliJ IDEA Community V2024.1
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Build script
+
+Before building the app, run: `flutter gen-l10n` to generate the localization files.
+
+ - For Windows:
+ - For Android:
+ - For Linux:
+ - For macOS:
+ - For iOS:
+ - For iPadOS:

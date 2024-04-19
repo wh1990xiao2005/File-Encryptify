@@ -1,0 +1,20 @@
+{
+    "index_tab_encrypt_decrypt": "加解密",
+    "index_tab_settings": "设置",
+
+    "settings_confirm_button": "保存",
+    "settings_cancel_button": "取消",
+
+    "encrypt_decrypt_add_file_button": "添加文件",
+    "encrypt_decrypt_edit_button": "编辑",
+    "encrypt_decrypt_cancel_button": "取消",
+    "encrypt_decrypt_remove_button": "移除",
+    "encrypt_decrypt_select_all_button": "全部选择",
+    "encrypt_decrypt_unselect_all_button": "取消选择",
+    "encrypt_decrypt_encrypt_mode_switcher": "加密",
+    "encrypt_decrypt_decrypt_mode_switcher": "解密",
+    "encrypt_decrypt_start_encrypt_button": "开始",
+    "encrypt_decrypt_pause_encrypt_button": "暂停",
+    "encrypt_decrypt_cancel_encrypt_button": "取消",
+    "encrypt_decrypt_continue_encrypt_button": "继续"
+}

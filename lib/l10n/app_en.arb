@@ -1,0 +1,20 @@
+{
+    "index_tab_encrypt_decrypt": "Encryption & Decryption",
+    "index_tab_settings": "Settings",
+
+    "settings_confirm_button": "Save",
+    "settings_cancel_button": "Cancel",
+
+    "encrypt_decrypt_add_file_button": "Add Files",
+    "encrypt_decrypt_edit_button": "Edit",
+    "encrypt_decrypt_cancel_button": "Cancel",
+    "encrypt_decrypt_remove_button": "Remove",
+    "encrypt_decrypt_select_all_button": "Select All",
+    "encrypt_decrypt_unselect_all_button": "Unselect All",
+    "encrypt_decrypt_encrypt_mode_switcher": "Encryption mode",
+    "encrypt_decrypt_decrypt_mode_switcher": "Decryption mode",
+    "encrypt_decrypt_start_encrypt_button": "Start",
+    "encrypt_decrypt_pause_encrypt_button": "Pause",
+    "encrypt_decrypt_cancel_encrypt_button": "Cancel",
+    "encrypt_decrypt_continue_encrypt_button": "Continue"
+}
